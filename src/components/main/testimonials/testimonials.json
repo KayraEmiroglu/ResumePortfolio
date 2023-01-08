@@ -1,0 +1,18 @@
+[
+    {
+       
+        "img":"assets/images/testimonial-img1.jpg",
+        "desc":"ri diam soluta molestie at, id melius ponderum mel, nominavi adipisci partiendo per te. No usu doctus dolorem liberavisse, vim nusquam invidunt id.",
+        "name":"John Doe"
+    },
+    {
+        "img":"assets/images/testimonial-img2.jpg",
+        "desc":"ri diam soluta molestie at, id melius ponderum mel, nominavi adipisci partiendo per te. No usu doctus dolorem liberavisse, vim nusquam invidunt id.",
+        "name":"Ayşe Gel"   
+     },
+    {
+        "img":"assets/images/testimonial-img3.jpg",
+        "desc":"ri diam soluta molestie at, id melius ponderum mel, nominavi adipisci partiendo per te. No usu doctus dolorem liberavisse, vim nusquam invidunt id.",
+        "name":"John Coffe"    
+    }
+]
